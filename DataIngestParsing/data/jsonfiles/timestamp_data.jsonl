@@ -1,0 +1,31 @@
+{
+  "user_id": "u12345",
+  "session_id": "s98765",
+  "events": [
+    {
+      "timestamp": "2026-01-12T09:15:02Z",
+      "event_type": "page_view",
+      "page": "/home"
+    },
+    {
+      "timestamp": "2026-01-12T09:15:18Z",
+      "event_type": "page_view",
+      "page": "/products"
+    },
+    {
+      "timestamp": "2026-01-12T09:15:45Z",
+      "event_type": "click",
+      "element": "product_card_42"
+    },
+    {
+      "timestamp": "2026-01-12T09:16:10Z",
+      "event_type": "page_view",
+      "page": "/products/42"
+    },
+    {
+      "timestamp": "2026-01-12T09:16:40Z",
+      "event_type": "scroll",
+      "position": "75%"
+    }
+  ]
+}
