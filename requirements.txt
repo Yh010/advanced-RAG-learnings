@@ -15,3 +15,6 @@ unstructured
 pandas
 openpyxl
 jq
+matplotlib
+langchain-huggingface
+sentence-transformers
