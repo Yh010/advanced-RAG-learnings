@@ -18,3 +18,4 @@ jq
 matplotlib
 langchain-huggingface
 sentence-transformers
+langchain-google-genai
